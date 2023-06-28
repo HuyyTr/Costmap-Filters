@@ -1,0 +1,7 @@
+<class_libraries>
+  <library path="lib/keepout_filter">
+    <class type="costmap_2d::KeepoutFilter"  base_class_type="costmap_2d::Layer">
+      <description>Create keepout zones and prefered lanes</description>
+    </class>
+  </library>
+</class_libraries>
